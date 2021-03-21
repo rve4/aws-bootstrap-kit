@@ -5,15 +5,15 @@
     "aws-cdk:enableDiffNoFail": "true",
     "@aws-cdk/core:stackRelativeExports": "true",
     "@aws-cdk/core:newStyleStackSynthesis": true,
-    "github_alias": "<YOUR GITHUB ALIAS>",
-    "github_repo_name": "aws-bootstrap-kit-examples",
+    "github_alias": "rve4",
+    "github_repo_name": "aws-bootstrap-kit",
     "github_repo_branch": "main",
-    "email": "<YOUR ROOT EMAIL>",
-    "domain_name": "<YOUR DOMAIN NAME>",
+    "email": "rve4@icloud.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "us-east-1",
-      "eu-west-1"
+      "us-west-2",
+      "ca-central-1"
     ]
   }
 }
